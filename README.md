@@ -9,3 +9,13 @@ The dataset is splitted as 20% test 80% training. Logistic regression was used i
 
 ## :newspaper:	 Dataset
 https://www.kaggle.com/c/fake-news/data?select=train.csv
+
+</br>
+
+## :mag_right: For more...
+
+- [NLTK](https://www.nltk.org)
+
+- [Porter Stemming Algorithm - Basic Intro](https://vijinimallawaarachchi.com/2017/05/09/porter-stemming-algorithm/)
+
+- [TfidfVectorizer](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html)
